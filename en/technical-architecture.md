@@ -4,7 +4,7 @@
 A high-level diagram illustrating interactions between front-end, back-end, database, and external services.
 
 ## Frameworks and Technologies
-| Layer       | Technology/Framework         | Purpose                              |
+| **Layer**       | **Technology/Framework**         | **Purpose**                              |
 |-------------|-------------------------------|--------------------------------------|
 | Front-End   | Angular, Google Blockly       | User Interface                      |
 | Back-End    | .Net Core, ABP.IO, Node.js    | Application Logic, API Layer        |
