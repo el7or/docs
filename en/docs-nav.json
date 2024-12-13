@@ -1,8 +1,40 @@
 {
     "items": [
         {
-            "text": "Sample Menu Item - 1",
-            "path": "Index.md"
-        }
+            "text": "Introduction",
+            "path": "introduction.md"
+        },
+        {
+            "text": "Technical Architecture",
+            "path": "technical-architecture.md"
+        },
+        {
+            "text": "Quality Management",
+            "path": "quality-management.md"
+        },
+        {
+            "text": "Application Features and Modules",
+            "path": "features-and-modules.md"
+        },
+        {
+            "text": "Performance and Scalability",
+            "path": "performance-scalability.md"
+        },
+        {
+            "text": "Market Potential and Value Proposition",
+            "path": "market-potential.md"
+        },
+        {
+            "text": "Additional Features",
+            "path": "additional-features.md"
+        },
+        {
+            "text": "Future Roadmap",
+            "path": "future-roadmap.md"
+        },
+        {
+            "text": "Conclusion",
+            "path": "conclusion.md"
+        },
     ]
 }
