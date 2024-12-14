@@ -7,14 +7,19 @@ The admin dashboard serves as the control center for managing and organizing all
 - **Publish Books**: After customizing the book details, admins can publish the content, making it accessible to users in both the web and desktop (Electron) versions.
 - **User Roles & Permissions**: Admins can define user roles (e.g., admin, editor, reader) and assign specific permissions for content management.
 - **Advanced Analytics**: The dashboard provides detailed statistics for each tenant, including total and active users, books, and videos, as well as daily activity, operating system usage, AI panel interactions, and the top 10 active videos and books. This empowers admins with insights to monitor engagement, optimize performance, and improve content offerings.
-  
+
    ![Admin dashboard](Admin-dashboard.png)
-  
+    
+   <small><em>Admin Dashboard</em></small>
+   <br><br>
   
 ## Accessing Akadimi as a User (Frontend)
 Users can access Akadimi via the web or desktop (Electron) versions. Upon logging in, they are directed to the home page or the library channel, where they can browse, search, and filter books based on various criteria.
 
-   ![Electron App Front-End Interface](Frontend.png)
+![Electron App Front-End Interface](Frontend.png)
+
+<small><em>Akadimi Front-End Interface</em></small>
+<br><br>
 
 
 ### Core Features
